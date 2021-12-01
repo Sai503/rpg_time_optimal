@@ -1,3 +1,6 @@
+Fork of rpg_time_optimal project to generate flight paths for MAAV mission 9
+
+# Original Readme:
 # Time-Optimal Planning for Quadrotor Waypoint Flight
 This is an **example implementation** of the paper "Time-Optimal Planning for Quadrotor Waypoint Flight" by Philipp Foehn, Angel Romero, Davide Scaramuzza  
 published in Science Robotics, Volume 6, Issue 56, 2021.
